@@ -1,7 +1,7 @@
 Badblock
 ========
 
-Chrome extension that blocks the bad internet stuff!
+Chrome extension that blocks the bad web stuff!
 
 ---
 
