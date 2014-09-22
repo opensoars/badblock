@@ -3,6 +3,8 @@ Badblock
 
 Chrome extension that blocks the bad internet stuff!
 
+---
+
 ## Dependencies
 * None
 
